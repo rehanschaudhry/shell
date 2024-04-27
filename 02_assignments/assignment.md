@@ -35,6 +35,13 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 ```
 Your answer here...
+Paper Rings
+10
+Meets
+And (This is from the "Space Wars: Future Legends and Past Legacies")
+Lucky
+Stars (I am ignoring the &)
+
 
 
 
